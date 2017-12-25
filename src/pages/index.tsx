@@ -27,7 +27,7 @@ export default (props: IndexPageProps) => (
       className="masthead"
       style={{
         background:
-          'linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("/prairie-house.jpg"',
+          'linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("/prairie-house.jpg")',
         "background-repeat": "no-repeat",
         "background-attachment": "fixed",
         "background-position": "center",
